@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
-  title:        "tjcmfrnc_demo"      # Project title
-  author:       "tj"      # Your name
+  title:        "tjcmfrnc_icdesigskynverilog" # Project title
+  author:       "tjcmfrnc"      # Your name
   discord:      "tjcmfrnc"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "demo_show"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
